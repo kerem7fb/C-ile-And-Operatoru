@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\10-M\And Operatörü uygulama\And Operatörü uygulama\bin\Debug\And Operatörü uygulama.exe.config
+C:\Users\user\Desktop\10-M\And Operatörü uygulama\And Operatörü uygulama\bin\Debug\And Operatörü uygulama.exe
+C:\Users\user\Desktop\10-M\And Operatörü uygulama\And Operatörü uygulama\bin\Debug\And Operatörü uygulama.pdb
+C:\Users\user\Desktop\10-M\And Operatörü uygulama\And Operatörü uygulama\obj\Debug\And Operatörü uygulama.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\10-M\And Operatörü uygulama\And Operatörü uygulama\obj\Debug\And_Operatörü_uygulama.Form1.resources
+C:\Users\user\Desktop\10-M\And Operatörü uygulama\And Operatörü uygulama\obj\Debug\And_Operatörü_uygulama.Properties.Resources.resources
+C:\Users\user\Desktop\10-M\And Operatörü uygulama\And Operatörü uygulama\obj\Debug\And Operatörü uygulama.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\10-M\And Operatörü uygulama\And Operatörü uygulama\obj\Debug\And Operatörü uygulama.exe
+C:\Users\user\Desktop\10-M\And Operatörü uygulama\And Operatörü uygulama\obj\Debug\And Operatörü uygulama.pdb
